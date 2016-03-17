@@ -1,0 +1,12 @@
+{
+	"firstname": "TingYuan",
+	"fullname": "",
+	"age": 22,
+	"married": No,
+	"has-own-hair": null,
+	"children": [{
+		"firstname": "11"
+	}, {
+		"firstname": "22"
+	}]
+}
