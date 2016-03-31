@@ -1,0 +1,19 @@
+{
+  "name": "hw5",
+  "version": "1.0.0",
+  "description": "hw5 for node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "TingYuanKe",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
